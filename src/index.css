@@ -1,0 +1,48 @@
+body{
+  background-image: url("r1TC7kp.png");
+  background-repeat: no-repeat;
+}
+.main{
+  border: 2px solid red;
+  width: 50%;
+  /* height: 400px; */
+  /* text-align: center; */
+  background-color: black;
+  background-image: url("imagessssssssssssssss.png");
+  background-repeat: no-repeat;
+}
+h1{
+  color:  white;
+}
+hr{
+  width: 30%;
+}
+.intro{
+  border: black 1px solid;
+  background-color: cornsilk;
+  width: 40%;
+  margin-bottom: 10px;
+}
+h2{
+  color: brown;
+}
+.col{
+  color: white;
+}
+span{
+  font-size: 20px;
+  font-weight: bold;
+}
+button{
+  margin-top: 12px;
+  height: 40px;
+  background-color: white;
+  color: black;
+  border-radius: 7em;
+}
+button:hover{
+  background-color: black;
+  color: white;
+  font-size: 40px;
+  height: 70px;
+}
